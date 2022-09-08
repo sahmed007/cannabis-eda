@@ -12,7 +12,7 @@ The primary goals of this project are to answer the following questions:
 
 Assuming that the above questions are answered, it may be possible to create a recommendation engine.
 
-4. Can we provide unique recommendations based on a user's flavor and profile preferences?
+5. Can we provide unique recommendations based on a user's flavor and profile preferences?
 
 ## Installation
 
